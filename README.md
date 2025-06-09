@@ -30,6 +30,6 @@ My long-term focus is on contributing to ambitious projects in the **humanoid ro
 
 I'm always open to networking with fellow developers, engineers, and mentors. The best way to connect is via my LinkedIn profile.
 
-* **[Connect with me on LinkedIn](https://www.linkedin.com/in/sean-miller-25674b35b/)**
+* **[Connect with me on LinkedIn](https://www.linkedin.com/in/the-seanmiller/)**
 
 > **⚡ Fun Fact:** Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad.
