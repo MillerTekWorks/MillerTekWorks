@@ -10,7 +10,7 @@ I am currently building deep foundational skills as part of **Phase 1** of my te
 
 * **Programming:** Mastering **Python** fundamentals, next is engineering applications and data science libraries (**NumPy, Pandas**).
 * **Mathematics for ML:** Filling in the gaps so I can then learn **Linear Algebra, Calculus, and Statistics**.
-* **Core Technologies:** Building fluency in **Git/GitHub**. Soon I'll delve into foundational **C++** for high-performance code and **Linux** beyond the basics. 
+* **Core Technologies:** Building fluency in **Git/GitHub** and **JS/Node**. Soon I'll delve into foundational **C++** for high-performance code and **Linux** beyond the basics. 
 
 ### ⚙️ My Tech Toolbox (work in progress)
 
