@@ -8,9 +8,9 @@ Hi, I'm Sean (@MillerTekWorks). I am a dedicated professional on a self-directed
 
 I am currently building deep foundational skills as part of **Phase 1** of my technical roadmap:
 
-* **Programming:** Mastering **Python** fundamentals, next is engineering applications and data science libraries (**NumPy, Pandas**).
+* **Programming:** Mastering **Python** fundamentals, next is engineering applications and data science libraries (**NumPy, Pandas**). And **JS/Node**.
 * **Mathematics for ML:** Filling in the gaps so I can then learn **Calculus, Linear Algebra, and Statistics**.
-* **Core Technologies:** Building fluency in **Git/GitHub** and **JS/Node**. Soon I'll delve into foundational **C++** for high-performance code and **Linux** beyond the basics. 
+* **Core Technologies:** Building fluency in **Git/GitHub**. Soon I'll delve into foundational **C++** for high-performance code and **Linux** beyond the basics. 
 
 ### ⚙️ My Tech Toolbox (work in progress)
 
