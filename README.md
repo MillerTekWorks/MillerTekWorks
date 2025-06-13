@@ -1,10 +1,10 @@
-# Welcome to My Engineering Journey! 👋
+# Welcome to My Engineering Journey!
 
 Hi, I'm Sean (@MillerTekWorks). I am a dedicated professional on a self-directed career transition into **AI, Machine Learning, and Robotics**. This repository is the headquarters for my journey, documenting each project as I build the practical skills to engineer the next generation of intelligent machines. With a passion for robotics and drones, I believe in learning by doing, and the projects you'll find here reflect that philosophy.
 
 ---
 
-### 🌱 What I'm Focused On Now
+### What I'm Focused On Now
 
 I am currently building deep foundational skills as part of **Phase 1** of my technical roadmap:
 
@@ -12,7 +12,7 @@ I am currently building deep foundational skills as part of **Phase 1** of my te
 * **Mathematics for ML:** Filling in the gaps so I can then learn **Calculus, Linear Algebra, and Statistics**.
 * **Core Technologies:** Building fluency in **Git/GitHub**. Soon I'll delve into foundational **C++** for high-performance code and **Linux** beyond the basics. 
 
-### ⚙️ My Tech Toolbox (work in progress)
+### My Tech Toolbox (work in progress)
 
 | Python | JavaScript | Node.JS | C++ | Git | GitHub | Linux |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -20,7 +20,7 @@ I am currently building deep foundational skills as part of **Phase 1** of my te
 
 *(This toolbox will grow as I progress through my learning plan to include PyTorch, ROS, and more.)*
 
-### 🎯 The Goal
+### The Goal
 
 My long-term focus is on contributing to ambitious projects in the **humanoid robotics** or **defense technology** sectors. I am open to collaboration on projects that align with these interests and offer opportunities for growth.
 
