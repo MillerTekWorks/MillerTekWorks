@@ -20,16 +20,16 @@ I am currently building deep foundational skills as part of **Phase 1** of my te
 
 *(This toolbox will grow as I progress through my learning plan to include PyTorch, ROS, and more.)*
 
-### The Goal
+### :robot: The Goal
 
 My long-term focus is on contributing to ambitious projects in the **humanoid robotics** or **defense technology** sectors. I am open to collaboration on projects that align with these interests and offer opportunities for growth.
 
 ---
 
-### 📫 Let's Connect
+### :fountain_pen: Let's Connect
 
 I'm always open to networking with fellow developers, engineers, and mentors. The best way to connect is via my LinkedIn profile.
 
 * **[Connect with me on LinkedIn](https://www.linkedin.com/in/the-seanmiller/)**
 
-> **⚡ Fun Fact:** Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad.
+> **:tomato: Fun Fact:** Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad.
