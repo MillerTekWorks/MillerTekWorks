@@ -8,9 +8,9 @@ Hi, I'm Sean (@MillerTekWorks). I am a dedicated professional on a self-directed
 
 I am currently building deep foundational skills as part of **Phase 1** of my technical roadmap:
 
-* **Programming:** Mastering **Python** fundamentals, next is engineering applications and data science libraries (**NumPy, Pandas**). And **JS/Node**.
-* **Mathematics for ML:** Filling in the gaps so I can then learn **Calculus, Linear Algebra, and Statistics**.
-* **Core Technologies:** Building fluency in **Git/GitHub**. Soon I'll delve into foundational **C++** for high-performance code and **Linux** beyond the basics. 
+* **Programming:** Mastering **Python** fundamentals, next is engineering applications and learning data science libraries such as (**NumPy, Pandas**). And some **JS/Node**.
+* **Mathematics for ML:** Right now I'm filling in the gaps so I can move on to learn **Calculus, Linear Algebra, and Statistics**.
+* **Core Technologies:** Building fluency in **Git/GitHub**. Soon I'll dive into foundational **C++** for high-performance code, and **Linux** beyond just the basics. 
 
 ### My Tech Toolbox (work in progress)
 
@@ -22,7 +22,7 @@ I am currently building deep foundational skills as part of **Phase 1** of my te
 
 ### :robot: The Goal
 
-My long-term focus is on contributing to ambitious projects in the **humanoid robotics** or **defense technology** sectors. I am open to collaboration on projects that align with these interests and offer opportunities for growth.
+Short term goal is to get my foot in the door somewhere at the intersection of AI/ML/Robotics. My long-term focus is on contributing to ambitious projects in the **humanoid robotics** or **defense technology** sectors. I am open to collaboration on projects that align with these interests and offer opportunities for growth.
 
 ---
 
