@@ -1,4 +1,4 @@
-# Welcome to My Engineering Journey!
+# Welcome to My Journey!
 
 Hi, I'm Sean (@MillerTekWorks). I am a dedicated professional on a self-directed career transition into **AI, Machine Learning, and Robotics**. This repository is the headquarters for my journey, documenting each project as I build the practical skills to engineer the next generation of intelligent machines. With a passion for robotics and drones, I believe in learning by doing, and the projects you'll find here reflect that philosophy.
 
